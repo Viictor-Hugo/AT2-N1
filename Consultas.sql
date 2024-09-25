@@ -1,4 +1,4 @@
-//Usar separadamente 
+--Usar separadamente 
 
 SELECT * FROM Quests WHERE nome LIKE '%Arena%';
 
